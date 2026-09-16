@@ -6,7 +6,7 @@ Resolve simulated hardware support tickets by identifying the root cause of each
  
 ## Scenario
  
-This lab simulated the role of an IT support technician resolving multiple hardware-related tickets in a help desk environment using the Issue Trax ticketing platform. Each ticket required troubleshooting, issue resolution, professional documentation, and ticket closure.
+This lab simulated the role of an IT support technician resolving multiple hardware-related tickets in a help desk environment using the Issue Trax ticketing platform. Each ticket required troubleshooting, issue resolution, documentation, and ticket closure.
  
 ## Tasks Completed
  
@@ -17,8 +17,7 @@ This lab simulated the role of an IT support technician resolving multiple hardw
 - Diagnosed a display issue caused by a disconnected HDMI cable.
 - Reconnected the display cable and verified monitor functionality.
 - Documented the root cause and resolution for each support ticket.
-- Closed tickets using professional help desk documentation practices.
-- 
+- Closed each ticket in the help desk system once the fix was confirmed.
 ## Skills Demonstrated
  
 - Hardware Troubleshooting
@@ -29,14 +28,13 @@ This lab simulated the role of an IT support technician resolving multiple hardw
 - Display Troubleshooting
 - Incident Resolution
 - Technical Communication
-- 
 ## What I Learned
-
  
-This lab reinforced the importance of following a structured troubleshooting process, starting with simple causes before assuming a complex hardware failure. I also practiced documenting completed work clearly before closing support tickets.
+This lab reinforced the importance of following a structured troubleshooting process, starting with simple causes before assuming a complex hardware failure. Working through multiple support tickets helped me practice identifying root causes, verifying fixes, and documenting resolutions clearly before closing cases.
  
 ## Lab Environment
  
 - CompTIA CertMaster Labs
 - CompTIA A+ Core 1
 - Issue Trax Ticketing System
+ 
